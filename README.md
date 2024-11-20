@@ -2,7 +2,7 @@
 
 I’m a final-year Computer Engineering student.
 Working as Software Tester and Test Automation Engineer.
-I’m interested in Data Science, AI, API development,and Embedded Systems.
+I’m interested in Data Science, AI, Database Management, API development,and Embedded Systems.
 
 Technologies I work with:
 
